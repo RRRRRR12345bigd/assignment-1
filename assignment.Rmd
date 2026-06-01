@@ -329,14 +329,12 @@ These 10 players are very much above average - the very top one (ID 3332) sees 1
 
 ## Task Explanation
 
-This task divides all players into four age brackets and compares their gaming behaviour. The goal is to determine whether age impacts either how actively or skillfully players interact with this platform. The age groups are:
+For this task I split the players into four age groups and compared how each behaved on the platform - calculating average play time, score and total sessions per group to reveal whether younger players are indeed more active or better performers - which is what one would probably assume going in
 
 - **16–25**: Youngest players
 - **26–35**: Young adults
 - **36–45**: Middle-aged players
 - **46+**: Older players
-
-For each group we calculate average play time, average score, and number of sessions.
 
 ## Assumptions
 
