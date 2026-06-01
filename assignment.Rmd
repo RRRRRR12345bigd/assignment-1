@@ -187,9 +187,7 @@ This task looked at the popularity of each game genre within the platform. There
 
 ## Assumption
 
-- Sessions are linked to genres via `game_id` → `games` table.
-- Sessions where `game_id` does not match any game (and thus has no genre) are excluded.
-- "Popularity" is measured by number of unique players; "engagement" also considers play time.
+To get the genre for each session I had to join the sessions table with the games table using game_id. Any sessions without a matching game (and thus no genre) were dropped. While unique player count is the primary measure of popularity I also looked at play time and session count for a more complete view.
 
 ## Data Wrangling
 
