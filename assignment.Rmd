@@ -338,10 +338,7 @@ For this task I split the players into four age groups and compared how each beh
 
 ## Assumptions
 
-- Each player's age is taken as their current age at the time of analysis.
-
-- Players with missing age values are left out.
-- All sessions contribute to the statistics of that age group player's statistics.
+I used each player’s current recorded age to form the groups. Any players with a missing age value were left out from the brackets as there’s no way to assign them to this bracket. All gaming sessions contribute to the statistics of each age group.
 
 ## Data Wrangling
 
