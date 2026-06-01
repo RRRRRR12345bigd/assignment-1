@@ -98,7 +98,7 @@ For this task I had to split players into three groups depending on when they si
 
 ## Assumptions
 
-I used signup year as the only means of classifying experience - so someone who signed up in 2021 but barely ever played would still be a Veteran. Any players where the signup year could not be determined were also left out. Every session a player has experienced counts towards the group averages - regardless of when that session occurred.
+As the only means of classifying experience level was the use of the signup year for each player - irrespective of their playing experience - players that signed up in 2021 but did not play would still be categorized as a Veteran. Similarly, any players whose signup year could not be determined were also left out of this data. Furthermore, each player’s total number of game sessions experienced by that player is utilized in the calculation of each of these averages - irrespective of the year in which they occurred.
 
 ## Data Wrangling
 
