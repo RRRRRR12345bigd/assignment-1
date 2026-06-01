@@ -94,7 +94,7 @@ Luckily none of the three datasets featured any missing values so no imputation 
 
 ## Task Explanation
 
-For this task I had to split players into three groups depending on when they signed up. Players who joined before 2023 are Veterans, those who joined during 2023 are Intermediate, and anyone who joined after 2023 is New. Once grouped, I calculated how many players are in each group, what their average session length is in minutes, and what their average score looks like. The idea is to see whether being on the platform longer actually makes a difference to how people play.
+For this task I had to split players into three groups depending on when they signed up. Players who joined before 2023 are Veterans, those who joined during 2023 are Intermediate, and anyone who joined after 2023 is New. Once I had all the players I could find I calculated how many were in each group, what their average session length was in minutes and how their average score was. The notion was to see if being on the platform for longer made any difference in what ways people played.
 
 ## Assumptions
 
