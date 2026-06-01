@@ -258,10 +258,7 @@ Here I needed to find the 10 players who had amassed the most total time across 
 
 ## Assumptions
 
-- Total play time is the sum of all `play_time_minutes` for each player across all sessions.
-- Players with any NA play time values are excluded from the total calculation.
-- After identifying the top 10, all their sessions (including any with NA scores) are included
-  in behavioural analysis, with NAs handled via `na.rm = TRUE`.
+I positioned players according to their total cumulative play time - the sum of all their sessions. Any player with NA values for play time I excluded those sessions from the total play time ranking. I took all sessions for the behavioural metrics for each of the top 10 players, with NAs dealt with via na.rm.
 
 ## Data Wrangling
 
