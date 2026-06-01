@@ -96,15 +96,7 @@ and `filter(!is.na(...))` to guard against any unexpected missing values.
 
 ## Task Explanation
 
-This task groups players by how long they have been registered on the platform,
-based on the year of their `signup_date`. The three groups are:
-
-- **Veteran**: signed up *before* 2023 — the most experienced players.
-- **Intermediate**: signed up *during* 2023 — moderately experienced.
-- **New**: signed up *after* 2023 — the newest players.
-
-For each group we calculate the number of players, average session play time (minutes),
-and average score to understand whether experience level influences engagement behaviour.
+For this task I had to split players into three groups depending on when they signed up. Players who joined before 2023 are Veterans, those who joined during 2023 are Intermediate, and anyone who joined after 2023 is New. Once grouped, I calculated how many players are in each group, what their average session length is in minutes, and what their average score looks like. The idea is to see whether being on the platform longer actually makes a difference to how people play.
 
 ## Assumptions
 
