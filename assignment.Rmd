@@ -175,10 +175,7 @@ ggplot(task1_summary,
 
 ## Interpretation
 
-The results show that both play time and average score are remarkably consistent across all three experience levels (\~91-92 minutes per session; \~496-501 score). Veterans do score marginally higher than new players (501.04 versus 495.96), suggesting a slight advantage from experience - but one that is small. This indicates that
-**engagement on the platform is not strongly driven by seniority**: all player groups
-
-are highly active and perform similarly. For Play Pulse Studios this is positive news - new players are not disadvantaged in terms of retention.
+The results were a bit surprising as all three groups featured nearly exactly the same amount of playing time per session (around 91-92 minutes) and very similar scoring outcomes (496-501). The veterans of the game do indeed edge out new players in average score - which makes sense given experience - but again the difference is so slight as to be effectively nothing. This does tell me, however, that new players are neither struggling to keep up nor dropping off participation - they are just as engaged as those with longer experience levels. This is actually a good finding for Play Pulse Studios suggesting the platform maintains people’s attention regardless of length of time they've been on it.
 
 \newpage
 
