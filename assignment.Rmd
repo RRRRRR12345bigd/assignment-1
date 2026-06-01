@@ -244,7 +244,7 @@ ggplot(task2_summary,
 
 ## Interpretation
 
-Puzzle came out on top - it had 3,606 unique players and 6,371 sessions - nearly double what RPG got. Sports and Strategy sat in the middle whereas RPG had both the fewest unique players and sessions. One thing I found interesting was that Strategy ended up with the highest average play time despite not being the most popular genre - people who play seem committed to each session. Sports players scored highest again which makes sense with how competitive those games tend to be. If I were advising the studio I’d look to continue investing in Puzzle content as it has the widest appeal but also dig into what makes Strategy so sticky in order to bring that same quality to other genres struggling for success.
+Puzzle had the most unique players and sessions with 3,606 and 6,371 respectively compared to almost twice as many for RPG. RPG had the fewest unique players and sessions which was surprising as RPGs tend to be more popular. Sports and Strategy fell somewhere in the centre. Strategy did not have the most unique players but players who played Strategy had the highest number of sessions with the game compared to all other genres indicating that the players who played Strategy were more interested in the game. Sports earned the highest number of sessions with players scoring games in Sports. Given these results, it would be beneficial for the company to continue investing in Puzzle as it has the greatest number of unique players but also potentially investigate why players are so interested in Strategy as this could potentially be applied to the RPG genre to also increase its number of players.
 
 \newpage
 
