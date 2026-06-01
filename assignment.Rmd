@@ -183,10 +183,7 @@ The results were a bit surprising as all three groups featured nearly exactly th
 
 ## Task Explanation
 
-This task looks at player engagement within each of the five game genres within the\
-platform: Action, Puzzle, RPG, Sports and Strategy. For each of these genres we calculate\
-average play time, score, number of sessions and unique players. This helps to reveal\
-which genres are most popular and engaging.
+This task looked at the popularity of each game genre within the platform. There are five genres - Action, Puzzle, RPG, Sports and Strategy. For each of these I worked out the average play time, average score, total number of sessions and how many unique players played that genre. This provides a picture of which game genres people are drawn to and which don’t receive such love.
 
 ## Assumption
 
