@@ -100,9 +100,7 @@ For this task I had to split players into three groups depending on when they si
 
 ## Assumptions
 
-- A player's experience level is determined solely by signup year, not by number of sessions.
-- Players without a valid signup year are excluded.
-- All sessions belonging to a player contribute equally to that player's group averages.
+I used signup year as the only means of classifying experience - so someone who signed up in 2021 but barely ever played would still be a Veteran. Any players where the signup year could not be determined were also left out. Every session a player has experienced counts towards the group averages - regardless of when that session occurred.
 
 ## Data Wrangling
 
