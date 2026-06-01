@@ -86,9 +86,7 @@ cat("\nNA counts — games:\n");    print(colSums(is.na(games)))
 cat("\nNA counts — sessions:\n"); print(colSums(is.na(sessions)))
 ```
 
-No NA values were found in any of the three datasets, so no imputation is required.
-NA handling is still applied defensively throughout each task using `na.rm = TRUE`
-and `filter(!is.na(...))` to guard against any unexpected missing values.
+Luckily none of the three datasets featured any missing values so no imputation was required. I did keep both na.rm = TRUE and filter(!is.na(...)) throughout though just in case something surprising came up post-joining of the tables.
 
 \newpage
 
