@@ -252,7 +252,7 @@ Puzzle had the most unique players and sessions with 3,606 and 6,371 respectivel
 
 ## Task Explanation
 
-Here I needed to find the 10 players who had amassed the most total time across all their sessions. After getting that list I looked at how often these players come back, how long the average session is and what kind of scores they're putting up. Basically I wanted to understand what the heaviest users of the platform look like.
+For this task I had to find the top 10 players based upon the total amount of time they spent playing the game. For these top 10 players I looked at how many games per week they played on average alongside their average game score. I wondered if these two variables correlated to one another - players who played the most having the highest scores for the game.
 
 ## Assumptions
 
