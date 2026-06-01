@@ -320,15 +320,8 @@ sessions %>%
 
 ## Interpretation
 
-The top 10 players show varied behaviour - yet all are high-engagement users. The very top\
-player (ID 3332) sits at 133 mins per session - well above platform average of \~92\
-minutes. Session counts range from 9 to 13 showing a frequent return to the platform.
+These 10 players are very much above average - the very top one (ID 3332) sees 133 minutes per session - nearly 40 minutes above the platform average. All have session counts between 9 and 13 though so each returns regularly. What is interesting though is that play time and score do not necessarily match up. Player 2447 features an average score per session that is very high at 617 while player 3812 puts in some of the longest sessions but only averages 429. Such gap indicates that some of these top players are putting in efforts without necessarily being the best players - perhaps they explore the games in a more casual manner or try out various strategies instead of optimising for score.
 
-The boxplots reveal some notable variability within scores - players such as 2447 who\
-score an average of 617 seem consistently high-performing compared to users such as 3812\
-whose average score is 429 yet who put in lengthy sessions. Such outcomes suggest\
-that high levels of play time do not always correlate with performance - some play\
-learning or exploring modes or play casually over longer periods.
 
 \newpage
 
