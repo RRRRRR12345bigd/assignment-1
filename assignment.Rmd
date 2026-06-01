@@ -254,7 +254,7 @@ Puzzle came out on top - it had 3,606 unique players and 6,371 sessions - nearly
 
 ## Task Explanation
 
-This task identifies the 10 players with the most total play time across all sessions. Each of these players is then analysed in terms of their frequency of sessions, play time per session and score. The intention is to understand what a “power user” looks like on the platform.
+Here I needed to find the 10 players who had amassed the most total time across all their sessions. After getting that list I looked at how often these players come back, how long the average session is and what kind of scores they're putting up. Basically I wanted to understand what the heaviest users of the platform look like.
 
 ## Assumptions
 
