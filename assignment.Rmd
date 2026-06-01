@@ -415,6 +415,7 @@ ggplot(task4_summary,
 ## Interpretation
 
 The results did create a bit of a flip in the expectations. The 46+ demographic included both the longest average sessions (93.11 min) and the most total sessions - making this the most active of the groups on the platform. The 16-25 demographic featured the fewest sessions within all four groups. The scores were pretty even though (496-503) so no age group is dramatically outperforming the others in terms of skill. The 26-35 group edged slightly ahead with the average score (503.53) but that’s not a huge difference. Overall then, Play Pulse Studios probably shouldn’t focus too much of their marketing on younger audiences - the older players are very engaged and loyal customers - and hence worth targeting even more directly.
+
 \newpage
 
 # Summary
