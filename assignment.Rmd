@@ -420,12 +420,4 @@ The results did create a bit of a flip in the expectations. The 46+ demographic 
 
 # Summary
 
-Analysis of gaming data by Play Pulse Studios reveals the following insights:
-
-1. Experience level has minimal influence upon either play time or score - all cohorts of players engage equally within the platform;
-
-2. Puzzle is the dominant genre in terms of popularity (3,606 unique players), while Strategy genres score highest in terms of average play time;
-
-3. Top players are highly diverse - long play times do not necessarily indicate high scoring abilities within games;
-
-4. The most active players are of advancing ages (46+) which disproves the prevailing assumption of such engagement by younger players.
+Looking across all four tasks, a few things stand out. The level of experience among players had almost no effect on how they played the game - veterans and new players exhibit identical behaviour in terms of session length and score. Puzzle proved to be the most popular genre with the largest base of players whilst Strategy deserves attention due to the length of players’ sessions. The top ten players reveals that long playing times don’t necessarily translate into high performance - scores show quite a spread amongst the heaviest users of the games. Most surprisingly though, the 46+ age group is the most active upon the platform - challenging the perception of gaming as mainly a young person’s hobby. The platform as a result has very broad appeal across the variety of player types - a solid position for the studio to be in.
